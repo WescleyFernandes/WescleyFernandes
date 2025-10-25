@@ -20,7 +20,7 @@
   </a>
 
    <!-- 🔗 LinkedIn -->
-  <a href="https://www.linkedin.com/in/wescleyfernandes" target="_blank" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/wescley-fernandes-a59498aa" target="_blank" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   
