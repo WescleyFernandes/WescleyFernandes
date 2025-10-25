@@ -37,6 +37,6 @@
 
 </br>
 <div align="center">
-<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WescleyFernandes"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Duduxs&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
+<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WescleyFernandes"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=WescleyFernandes&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
 </a>
 </div>
