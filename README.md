@@ -88,5 +88,5 @@ Busco oportunidades para aplicar meus conhecimentos em projetos reais e colabora
 ---
 
 <div align="center">
-  <h4>Feito com ❤️ por <strong>Wescley Fernandes</strong></h4>
+  <h4>Feito por <strong>Wescley Fernandes</strong></h4>
 </div>
